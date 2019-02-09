@@ -1,0 +1,16 @@
+D:\jinga\Projekte\C#\AudioSplit\AudioSplit\bin\Debug\AudioSplit.exe.config
+D:\jinga\Projekte\C#\AudioSplit\AudioSplit\bin\Debug\AudioSplit.exe
+D:\jinga\Projekte\C#\AudioSplit\AudioSplit\bin\Debug\AudioSplit.pdb
+D:\jinga\Projekte\C#\AudioSplit\AudioSplit\bin\Debug\Bass.Net.dll
+D:\jinga\Projekte\C#\AudioSplit\AudioSplit\bin\Debug\NAudio.dll
+D:\jinga\Projekte\C#\AudioSplit\AudioSplit\bin\Debug\NAudio.xml
+D:\jinga\Projekte\C#\AudioSplit\AudioSplit\obj\Debug\MainWindow.g.cs
+D:\jinga\Projekte\C#\AudioSplit\AudioSplit\obj\Debug\App.g.cs
+D:\jinga\Projekte\C#\AudioSplit\AudioSplit\obj\Debug\AudioSplit_MarkupCompile.cache
+D:\jinga\Projekte\C#\AudioSplit\AudioSplit\obj\Debug\AudioSplit_MarkupCompile.lref
+D:\jinga\Projekte\C#\AudioSplit\AudioSplit\obj\Debug\MainWindow.baml
+D:\jinga\Projekte\C#\AudioSplit\AudioSplit\obj\Debug\AudioSplit.g.resources
+D:\jinga\Projekte\C#\AudioSplit\AudioSplit\obj\Debug\AudioSplit.Properties.Resources.resources
+D:\jinga\Projekte\C#\AudioSplit\AudioSplit\obj\Debug\AudioSplit.csproj.GenerateResource.Cache
+D:\jinga\Projekte\C#\AudioSplit\AudioSplit\obj\Debug\AudioSplit.exe
+D:\jinga\Projekte\C#\AudioSplit\AudioSplit\obj\Debug\AudioSplit.pdb

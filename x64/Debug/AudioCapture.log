@@ -1,0 +1,4 @@
+﻿  main.cpp
+main.cpp(63): warning C4311: 'type cast': pointer truncation from 'DWORD *' to 'unsigned int'
+main.cpp(63): warning C4302: 'type cast': truncation from 'DWORD *' to 'unsigned int'
+  AudioCapture.vcxproj -> D:\jinga\Projekte\C#\AudioSplit\AudioCapture\Debug\AudioCapture.dll
